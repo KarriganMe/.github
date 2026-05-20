@@ -27,7 +27,7 @@ You can report issues and bugs, but we prefer using GitHub issues for bugs since
 
 <a href="https://patreon.com/karriganme">Patreon</a> - Mainly news and donations.
 
-<a href="info@karrigan.me">Mail</a> - For anything really important and private. 
+<a href="mailto:info@karrigan.me">Mail</a> - For anything really important and private. 
 Collaboration ideas, critycal error on karrigan.me.
 
 For anything other, please use discord, we have guide about how you can report bugs, issues or ask for help. If you will not follow this rule, you will be redirected to discord. In case of repiting the same actions, you will be blocked.
