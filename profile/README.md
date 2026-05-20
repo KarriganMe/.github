@@ -1,5 +1,7 @@
 <h1>karrigan.me</h1>
+<p align="center">
 <img width="240" height="240" alt="logo-no-bg" src="https://github.com/user-attachments/assets/77241d78-e381-44a3-8090-8f6e1b613b31"/>
+</p>
 
 Owned by <a href="https://github.com/KmeKerrigan">Kerrigan</a>
 
